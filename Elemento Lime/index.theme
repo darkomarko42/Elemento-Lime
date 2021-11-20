@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Elemento Lime
+Comment=GTK Theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Elemento Lime
+MetacityTheme=Elemento Lime
+IconTheme=Luna-Light
+CursorTheme=Luna
+CursorSize=24
